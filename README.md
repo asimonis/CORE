@@ -1,12 +1,13 @@
-# Seatech
- This repository contains the data and code to visualize results of Seatech Research Projects. 
+# CORE
+ This repository contains the data and code to visualize results of youth research projects in the Collaborative Ocean Research Experience (CORE) Network.
+ It also contains resources for mentorship and collaboration
 
 # Contents
 
 The repository contains:
 -   📁 code: Quarto source document, which includes code to reproduce the figures and generate a PDF. 
-
 -   📁 data: Data used in the analysis, including logs from Seatech analysts and databases of the location of drifting buoys
+-   📁 resources: Instructional materials and guidance for mentors
 
 ## How to download and run locally
 
